@@ -1,7 +1,7 @@
 <h1 align="center">Treine.me</h1>
 
 <p align="center">
-Segundo Projeto desenvolvido durante as aulas do Nível 01 da formação Explorer na Rocketseat.
+2º Projeto desenvolvido durante as aulas do Stage 02 da formação Explorer na Rocketseat.
 </p>
 
 <p align="center">
